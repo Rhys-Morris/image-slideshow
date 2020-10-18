@@ -8,3 +8,5 @@ A simple image slideshow built with javacsript.
 - Select specific image with representative circles under slideshow
 
 Created as part of coursework for [**The Odin Project**](https://www.theodinproject.com/courses/javascript/lessons/dynamic-user-interface-interactions).
+
+[**View slideshow**](https://rhys-morris.github.io/image-slideshow/)
